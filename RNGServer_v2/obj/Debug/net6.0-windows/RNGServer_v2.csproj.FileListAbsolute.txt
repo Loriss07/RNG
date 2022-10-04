@@ -1,0 +1,17 @@
+C:\Users\loris\Desktop\Loris\TPS\RNGv2\RNGServer_v2\bin\Debug\net6.0-windows\RNGServer_v2.exe
+C:\Users\loris\Desktop\Loris\TPS\RNGv2\RNGServer_v2\bin\Debug\net6.0-windows\RNGServer_v2.deps.json
+C:\Users\loris\Desktop\Loris\TPS\RNGv2\RNGServer_v2\bin\Debug\net6.0-windows\RNGServer_v2.runtimeconfig.json
+C:\Users\loris\Desktop\Loris\TPS\RNGv2\RNGServer_v2\bin\Debug\net6.0-windows\RNGServer_v2.dll
+C:\Users\loris\Desktop\Loris\TPS\RNGv2\RNGServer_v2\bin\Debug\net6.0-windows\RNGServer_v2.pdb
+C:\Users\loris\Desktop\Loris\TPS\RNGv2\RNGServer_v2\obj\Debug\net6.0-windows\RNGServer_v2.csproj.AssemblyReference.cache
+C:\Users\loris\Desktop\Loris\TPS\RNGv2\RNGServer_v2\obj\Debug\net6.0-windows\RNGServer_v2.Form1.resources
+C:\Users\loris\Desktop\Loris\TPS\RNGv2\RNGServer_v2\obj\Debug\net6.0-windows\RNGServer_v2.csproj.GenerateResource.cache
+C:\Users\loris\Desktop\Loris\TPS\RNGv2\RNGServer_v2\obj\Debug\net6.0-windows\RNGServer_v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loris\Desktop\Loris\TPS\RNGv2\RNGServer_v2\obj\Debug\net6.0-windows\RNGServer_v2.AssemblyInfoInputs.cache
+C:\Users\loris\Desktop\Loris\TPS\RNGv2\RNGServer_v2\obj\Debug\net6.0-windows\RNGServer_v2.AssemblyInfo.cs
+C:\Users\loris\Desktop\Loris\TPS\RNGv2\RNGServer_v2\obj\Debug\net6.0-windows\RNGServer_v2.csproj.CoreCompileInputs.cache
+C:\Users\loris\Desktop\Loris\TPS\RNGv2\RNGServer_v2\obj\Debug\net6.0-windows\RNGServer_v2.dll
+C:\Users\loris\Desktop\Loris\TPS\RNGv2\RNGServer_v2\obj\Debug\net6.0-windows\refint\RNGServer_v2.dll
+C:\Users\loris\Desktop\Loris\TPS\RNGv2\RNGServer_v2\obj\Debug\net6.0-windows\RNGServer_v2.pdb
+C:\Users\loris\Desktop\Loris\TPS\RNGv2\RNGServer_v2\obj\Debug\net6.0-windows\RNGServer_v2.genruntimeconfig.cache
+C:\Users\loris\Desktop\Loris\TPS\RNGv2\RNGServer_v2\obj\Debug\net6.0-windows\ref\RNGServer_v2.dll
