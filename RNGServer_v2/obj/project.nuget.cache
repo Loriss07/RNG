@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CjIJhbRTGXDRLeZPM+gWUqHpDttWiV4O7/VqBUMYshaOD7kdIRpTAWxY74rbkCNQ48MzNRe/EGpgOi8ibisByg==",
+  "dgSpecHash": "GsNNKt5KLISQrOzOJp8/9FJ36ui0R89HIJG/4Dcs031KBdZDKlm0RXUxM9sUBlFD/BaisFME7G8Rj2twnpbJqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\loris\\Desktop\\Loris\\TPS\\RNGv2\\RNGServer_v2\\RNGServer_v2.csproj",
+  "projectFilePath": "C:\\Users\\loris\\source\\repos\\RNG_VS22\\RNGServer_v2\\RNGServer_v2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,4 +13,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RNGServer_v2
-build_property.ProjectDir = C:\Users\loris\Desktop\Loris\TPS\RNGv2\RNGServer_v2\
+build_property.ProjectDir = C:\Users\loris\source\repos\RNG_VS22\RNGServer_v2\

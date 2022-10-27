@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\loris\\Desktop\\Loris\\TPS\\RNGv2\\RNGServer_v2\\RNGServer_v2.csproj",
+      "projectUniqueName": "C:\\Users\\loris\\source\\repos\\RNG_VS22\\RNGServer_v2\\RNGServer_v2.csproj",
       "projectName": "RNGServer_v2",
-      "projectPath": "C:\\Users\\loris\\Desktop\\Loris\\TPS\\RNGv2\\RNGServer_v2\\RNGServer_v2.csproj",
+      "projectPath": "C:\\Users\\loris\\source\\repos\\RNG_VS22\\RNGServer_v2\\RNGServer_v2.csproj",
       "packagesPath": "C:\\Users\\loris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\loris\\Desktop\\Loris\\TPS\\RNGv2\\RNGServer_v2\\obj\\",
+      "outputPath": "C:\\Users\\loris\\source\\repos\\RNG_VS22\\RNGServer_v2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\loris\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,15 +8,18 @@ namespace RNGServer_v2
     {
         private RNG_Server Server;
         private Socket ServerSocket;
+        private Thread Service;
         public Form1()
         {
             InitializeComponent();
             Server = new RNG_Server("127.0.0.1");
+            Service = new Thread(new ThreadStart(Server_Task));
+            Service.Name = "Servizio";
         }
 
         private void btnOpenConn_Click(object sender, EventArgs e)
         {
-            Server.StartServer(ref ServerSocket);
+            Service.Start();
             status.ForeColor = Color.ForestGreen;
         }
 
@@ -24,6 +27,11 @@ namespace RNGServer_v2
         {
             Server.StopServer(ref ServerSocket);
             status.ForeColor = Color.Coral;
+        }
+
+        public void Server_Task()
+        {
+            Server.StartServer(ref ServerSocket);
         }
     }
     public class RNG_Server
@@ -103,13 +111,17 @@ namespace RNGServer_v2
                 Console.WriteLine(ex.ToString());
             }
 
+
         }
 
         public void StopServer(ref Socket socket)
         {
             socket.Close();
+            
+            
         }
 
-    
+        
     }
+   
 }
